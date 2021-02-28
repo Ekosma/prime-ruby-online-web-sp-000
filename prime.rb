@@ -1,4 +1,5 @@
 def prime?(num)
- 
-   end
+ while  do
+   
+  end
 end
