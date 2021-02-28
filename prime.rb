@@ -4,6 +4,6 @@ def prime?(num)
  array_of_num.each do |i|  
   if num % i == 0 
     ret = false
-  end
+    end
   end
 end
