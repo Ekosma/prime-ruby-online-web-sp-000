@@ -1,6 +1,7 @@
 def prime?(num)
   ret = true
-  if num 
+    if num <= 1
+      return false
   array_of_num = (2.. num - 1)
   array_of_num.each do |i|  
     if num % i == 0 
