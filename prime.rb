@@ -1,5 +1,7 @@
 def prime?(num)
- while  do
+ i = 
+ while i < num 
+    do
    
   end
 end
