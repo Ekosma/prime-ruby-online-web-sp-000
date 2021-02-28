@@ -5,4 +5,5 @@ def prime?(num)
   if num % i == 0 
     ret = false
   end
+  end
 end
