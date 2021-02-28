@@ -6,4 +6,5 @@ def prime?(num)
       ret = false
     end
   end
+  return ret
 end
